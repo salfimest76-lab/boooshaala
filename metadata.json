@@ -1,0 +1,5 @@
+{
+  "name": "Pinterest Video Enhancer",
+  "description": "An application that helps users optimize their videos for Pinterest by generating catchy titles, descriptions, and hashtags using AI.",
+  "requestFramePermissions": []
+}
